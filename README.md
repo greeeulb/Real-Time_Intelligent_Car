@@ -1,3 +1,2 @@
 # Real-Time_Intelligent_Car
-https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/issues/1#issue-1111937891
-
+![This is an image](https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/issues/1#issue-1111937891)
