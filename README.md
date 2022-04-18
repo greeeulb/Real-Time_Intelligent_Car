@@ -1,8 +1,10 @@
 #Real-Time_Intelligent_Car
 
 <div align=center>
-![d1529ae3d438e3c77bf5b7e7aa850c6](https://user-images.githubusercontent.com/98277076/163876853-758175c5-d8c5-4a93-9e3d-697322a0a45c.png)
+<img src="https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/blob/main/logo.png"/>
 </div>
+
+
 ____________________________________________________________________________________________________________________________________________________________________
 Background:
 
