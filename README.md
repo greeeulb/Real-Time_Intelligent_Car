@@ -33,5 +33,5 @@ Media:
 Twitter，Insgram，Youtube
 
 License：
-
+See this link:https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/blob/main/LICENSE
 
