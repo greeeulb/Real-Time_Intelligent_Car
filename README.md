@@ -29,12 +29,8 @@ Future functions:
 The car tracking,Car anti-collision system
 
 Media:
-Twitter:
-http://jetprogramme.org/wp-content/uploads/2017/03/twitter-logo.png
+Twitter，Insgram，Youtube
 
-Insgram；
-https://pbs.twimg.com/profile_images/1306051401236099072/nuSA8oqW_400x400.jpg
+License：
 
-Youtube：
-![image](https://user-images.githubusercontent.com/98277076/163845303-1259edbe-0b9a-46bb-87b0-a9a8611d008d.png)
 
