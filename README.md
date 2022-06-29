@@ -1,10 +1,11 @@
-                                                             Real-Time_Intelligent_Car
-
-
-
-<div align=center>
-<img src="https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/blob/main/logo.png"/>
-</div>
+<!-- PROJECT LOGO -->
+<h1 align="center">Real-Time Intelligent Car</h1>
+<p align="center">
+<br/>
+<p align="center">
+<img src="https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/blob/main/logo.png" width="400" height="400">
+  </p>
+<br/>
 
 
 ____________________________________________________________________________________________________________________________________________________________________
