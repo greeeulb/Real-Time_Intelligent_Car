@@ -8,11 +8,11 @@
 
 
 ____________________________________________________________________________________________________________________________________________________________________
-###Background:
+### Background:
 
 The aim for our intelligent vehicle project is to use embedded programming as a tool to build a remote soft real-time control system of the car with artificial direction control as the input signal. Meanwhile, some additional security functions are realized with the help of sensors. All hardware such as power module and power supply system will be built by ourselves and meet the control of the system.
 
-###Hardware:
+### Hardware:
 • Raspberry Pi 4
  
 • 4WD development board
