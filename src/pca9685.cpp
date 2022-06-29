@@ -80,7 +80,7 @@ public:
 		}
 		else
 		{
-			cout << ("pca9685 doesn't init\n");
+			cout << "pca9685 doesn't init\n";
 
 		}
 	}
@@ -89,7 +89,7 @@ public:
 	{
 		unsigned preScale = (PCA9685_CLOCK_FREQ / 4096 / freq) - 1;
 		unsigned oldMode = 0;
-		printf("set PWM frequency to %d HZ\n", freq);
+		cout<<"set PWM frequency to %d HZ\n"<< freq;
 		//read old mode
 		oldMode = ReadByte(PCA9685_fd, PCA9685_MODE1);
 		//setup sleep mode, Low power mode. Oscillator off (bit4: 1-sleep, 0-normal)
@@ -109,7 +109,7 @@ public:
 		//PWM
 		if (!PCA9685_initSuccess)
 		{
-			printf("Set Pwm failure!\n");
+			cout<<"Set Pwm failure!\n";
 			return;
 		}
 		WriteByte(PCA9685_fd, PCA9685_LED0_ON_L + PCA9685_LED_SHIFT * channel, on & 0xFF);
