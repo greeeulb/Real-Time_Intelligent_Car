@@ -11,7 +11,7 @@
 ____________________________________________________________________________________________________________________________________________________________________
 ### Background:
 
-The aim for our intelligent vehicle project is to use embedded programming as a tool to build a remote soft real-time control system of the car with artificial direction control as the input signal. Meanwhile, some additional security functions are realized with the help of sensors. All hardware such as power module and power supply system will be built by ourselves and meet the control of the system.
+The advancement of society and technology has made the world pay more attention to environmental issues, and the trend of electric motors to replace traditional mechanical engines has become more and more clear. Meanwhile, the automation of driving has also become an important part of this technological revolution. This includes the large-scale industrial platforms of automobile companies and the needs of individuals for motor vehicles to complete small daily life tasks. Under this demand, we have developed a motor-driven trolley on a semi-mature hardware platform that can be remotely controlled and can be equipped with various expansion devices. The application field can be production activities such as site management.
 
 ### Hardware:
 • Raspberry Pi 4
