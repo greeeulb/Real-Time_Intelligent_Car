@@ -3,7 +3,7 @@
 <p align="center">
 <br/>
 <p align="center">
-<img src="https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/blob/main/logo.png" width="400" height="400">
+<img src="https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/blob/main/logo.png" width="300" height="300">
   </p>
 <br/>
 
