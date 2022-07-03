@@ -34,7 +34,6 @@ The advancement of society and technology has made the world pay more attention 
  
 • 3.7V 18650 batteries
 
-![icon](https://user-images.githubusercontent.com/98277076/163877536-eb2aadd7-b056-4b93-99f8-763798f6879a.png)
 
 
 Function:
