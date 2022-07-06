@@ -13,9 +13,10 @@ ________________________________________________________________________________
 <ul>
     <li><a href="#Introduction">Introduction</a>
         <ul>
-            <li><a href="#Hardware">Hardware</a>
+            <li><a href="#Schedule">Schedule</a>
+            <li><a href="#Components">Components</a>
             <li><a href="#Processflow">Processflow</a>
-            <li><a href="#Function">Function</a>
+            <li><a href="#Functions">Function</a>
         </ul>
     <li><a href="#Quick start">Quick start</a>
         <ul>
@@ -31,39 +32,33 @@ ________________________________________________________________________________
 
 The advancement of society and technology has made the world pay more attention to environmental issues, and the trend of electric motors to replace traditional mechanical engines has become more and more clear. Meanwhile, the automation of driving has also become an important part of this technological revolution. This includes the large-scale industrial platforms of automobile companies but also the needs of individuals for motor vehicles to complete small daily life tasks. Under this demand, we have developed a motor-driven trolley on a semi-mature hardware platform using C and C++ language which can be remotely controlled and can be equipped with various expansion devices. The application field can be production activities such as site management.
 
-## Hardware
-• Raspberry Pi 4
- 
-• 4WD development board
-  for Raspberry Pi •
- 
-• DC speed reduction motors
- 
+
+## Schedule
+
+## Components
+• Raspberry Pi 4 
+• C/C++ Language for embedded-coding
+• Freenove Car Develop Kit
 • 5V/3A power adapter
- 
 • Micro SD card and reader
- 
-• Sensor (camera, Ultrasonic module etc. for extra function)
- 
-• Material structure parts
-(wheels, screws etc.)
- 
-• Wi-fi module
- 
 • 3.7V 18650 batteries
 
+## Precessflow
 
-
-Function:
+## Functions
 Free control of intelligent car,Remote control car wireless.
 
-Future functions:
-The car tracking,Car anti-collision system
+## Quick start
 
-Media:
-Twitter，Insgram，Youtube
+## Connect-hardware
 
-Authors:
+## Installation
+
+## Test
+
+## Run-Small Car
+
+## Authors:
 Zhengqi Song.  Yike Hu.  Peng Jiang.   Dong Chen
 
 License：
