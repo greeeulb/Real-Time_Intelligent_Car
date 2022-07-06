@@ -36,12 +36,12 @@ The advancement of society and technology has made the world pay more attention 
 ## Schedule
 
 ## Components
-• Raspberry Pi 4 
-• C/C++ Language for embedded-coding
-• Freenove Car Develop Kit
-• 5V/3A power adapter
-• Micro SD card and reader
-• 3.7V 18650 batteries
+• Raspberry Pi 4 <br/>
+• C/C++ Language for embedded-coding <br/>
+• Freenove Car Develop Kit <br/>
+• 5V/3A power adapter <br/>
+• Micro SD card and reader <br/>
+• 3.7V 18650 batteries <br/>
 
 ## Precessflow
 
