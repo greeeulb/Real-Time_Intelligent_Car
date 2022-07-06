@@ -7,6 +7,14 @@
   </p>
 <br/>
 
+<p align="center">
+    <a href="https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/graphs/contributors" alt="Contributors">
+        <img src="https://img.shields.io/badge/Contributors%20-4-brightgreen.svg?style=flat-square" /></a>
+    <a href="https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/blob/main/LICENSE" alt="License">
+        <img src="https://img.shields.io/github/license/Maripoforest/GestureHueLight.svg?color=red" /></a>
+    <a href="https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/releases" alt="Tag">
+        <img src="https://img.shields.io/github/v/release/Maripoforest/GestureHueLight?color=pink" alt="build status"></a>
+</p>
 
 ____________________________________________________________________________________________________________________________________________________________________
 ## Contents
