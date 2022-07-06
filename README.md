@@ -36,7 +36,7 @@ The advancement of society and technology has made the world pay more attention 
 ## Schedule
 
 <p align="center">
-<img src="https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/blob/main/Timetable(GANNT%20Chatt).png" width="400" height="400">
+<img src="https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/blob/main/Timetable(GANNT%20Chatt).png" width="600" height="400">
   </p>
 <br/>
 
