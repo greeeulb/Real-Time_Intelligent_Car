@@ -73,10 +73,11 @@ Free control of intelligent car,Remote control car wireless.
 ## Run-Small Car
 
 ## Authors:
-Zhengqi Song <br/>
-Yike Hu <br/>
-Peng Jiang <br/>
-Dong Chen <br/>
+
+ <a href="https://github.com/PhillipsSong3">Zhengqi Song</a> <br/>
+ <a href="https://github.com/dimitrithewalker">Dong Chen</a> <br/>
+ Yike Hu</a> <br/>
+ Peng Jiang</a> <br/>
 
 
 
