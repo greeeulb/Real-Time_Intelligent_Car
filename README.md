@@ -24,7 +24,7 @@ ________________________________________________________________________________
             <li><a href="#Schedule">Schedule</a>
             <li><a href="#Components">Components</a>
             <li><a href="#Processflow">Processflow</a>
-            <li><a href="#Functions">Function</a>
+            <li><a href="#Functions">Functions</a>
         </ul>
     <li><a href="#Quick start">Quick start</a>
         <ul>
