@@ -74,10 +74,10 @@ Free control of intelligent car,Remote control car wireless.
 
 ## Authors:
 
- *<a href="https://github.com/PhillipsSong3">Zhengqi Song</a> <br/>
- *<a href="https://github.com/dimitrithewalker">Dong Chen</a> <br/>
- *Yike Hu</a> <br/>
- *Peng Jiang</a> <br/>
+* <a href="https://github.com/PhillipsSong3">Zhengqi Song</a> <br/>
+* <a href="https://github.com/dimitrithewalker">Dong Chen</a> <br/>
+* Yike Hu</a> <br/>
+* Peng Jiang</a> <br/>
 
 
 
