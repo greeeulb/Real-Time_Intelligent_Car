@@ -9,6 +9,15 @@
 
 <p align="center">
     <a href="https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/graphs/contributors" alt="Contributors">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" height="40" width="40"/></a>
+    <a href="https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/blob/main/LICENSE" alt="License">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="40" width="40" /></a>
+    <a href="https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/blob/main/LICENSE" alt="License">
+        <img src="https://en.wikipedia.org/wiki/File:Bilibili_logo.svg" height="40" width="50" /></a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/badge/Contributors%20-4-brightgreen.svg?style=flat-square" /></a>
     <a href="https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/blob/main/LICENSE" alt="License">
         <img src="https://img.shields.io/github/license/Maripoforest/GestureHueLight.svg?color=red" /></a>
