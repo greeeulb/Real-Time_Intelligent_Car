@@ -1,6 +1,8 @@
 #include <iostream>
 #include "pca9685.h"
 #include "motor.h"
+#include "pca9685.cpp"
+#include "motor.cpp"
 
 using namespace std;
 
