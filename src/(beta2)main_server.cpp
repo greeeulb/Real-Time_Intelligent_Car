@@ -7,6 +7,16 @@
 #include <netinet/in.h>
 #include <arpa/inet.h>
 #include <cstdlib>
+#include "up.cpp"
+#include "down.cpp"
+#include "right.cpp"
+#include "left.cpp"
+#include "stop.cpp"
+#include "pca9685.h"
+#include "pca9685.cpp"
+#include "motor.h"
+#include "motor.cpp"
+
 using namespace std;
 #define USEPORT 1234
 
