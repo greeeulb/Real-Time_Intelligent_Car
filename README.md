@@ -40,7 +40,7 @@ ________________________________________________________________________________
             <li><a href="#Connect-hardware">Connect hardware</a>
             <li><a href="#Installation">Installation</a>
             <li><a href="#Test">Test</a>
-            <li><a href="#Run-Small car">Run Small car</a>
+            <li><a href="#Static Library">Static Library</a>
         </ul>
     <li><a href="#Authors">Authors</a>
 </ul>
@@ -79,7 +79,49 @@ Free control of intelligent car,Remote control car wireless.
 
 ## Test
 
-## Run-Small Car
+### 1. How to test code on Raspberry through Terminal console
+```
+cd ~/smartcar  
+g++ pca9685.cpp -lwiringPi -o pcatest// compile the pca9685.cpp with the aid of wiringPi library and generate a executable file called pcatest
+./pcatest     
+```
+##### (smartcar is the folder where cpp files exist and the third line is to execute the pcatest in the same path）
+
+### 2. The test of motor is similar with the previous step:
+```
+cd ~/smartcar   
+g++ motor.cpp -lwiringPi -o motortest// compile the motor.cpp with the aid of wiringPi library and generate a executable file called motortest
+./motortest     
+```
+##### (the third line is to execute the motortest in the same path)
+
+## Static Library
+
+### 1. How to generate the Static library
+```
+cd ~/smartcar   //jump to the folder
+g++ pca9685.cpp -lwiringPi -o pca9685.o 
+ar rcs libpca9685.a pca9685.o
+```
+##### (First line is to jump to the folder and second line is to compile the pca9685.cpp with the aid of wiringPi then generate a .o file called pca9685.o. Third line is to use the .o file to generate a static library)
+
+### 2. The generation of motor’s static library is similar with the previous code
+```
+cd ~/smartcar   
+g++ motor.cpp -lwiringPi -o motor.o 
+ar rcs libmotor.a motor.o 
+```
+
+### 3. How to use the static library
+```
+cd ~/smartcar   
+g++ motor.cpp -lwiringPi -lpca9685 -L ./ -o motortest 
+```
+##### (The first line is to complie the motor.cpp with the aid of wiringPi and the static library which generated from pca9685, because the motor file is built based on it. “-L ./” means use the library in the same path with the cpp file.)
+
+### 4. Function of the static library
+##### Without the static library, the compiler cannot detect the header file as well as the functions in it. By using static library, the coder can relate two code file together and achieve cross compilation.
+
 
 ## Authors:
 
