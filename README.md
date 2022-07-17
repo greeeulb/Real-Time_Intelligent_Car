@@ -31,7 +31,6 @@ ________________________________________________________________________________
             <li><a href="#Schedule">Schedule</a>
             <li><a href="#Components">Components</a>
             <li><a href="#Processflow">Processflow</a>
-            <li><a href="#Functions">Functions</a>
         </ul>
     <li><a href="#Guidance">Guidance</a>
         <ul>
@@ -65,8 +64,6 @@ The advancement of society and technology has made the world pay more attention 
 
 ## Processflow
 
-## Functions
-Free control of intelligent car,Remote control car wireless.
 
 # Guidance
 
