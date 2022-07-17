@@ -76,7 +76,8 @@ In this project, we download QT creator Software on Windows to design the GUI fo
 <img src="https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/blob/main/QT%20creator.png" width="300" height="350">
   </p>
 <br/>
-After running the **client** project in QT Creator Software, the UI design is shown below. Once we click the connect button, the **off** on the screen will change to “connect successful” and now we can control the mini car！
+After running the "client" project in QT Creator Software, the UI design is shown below. Once we click the connect button, the "off" on the screen will change to “connect successful” and now we can control the mini car！
+
 <p align="center">
 <img src="https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/blob/main/mainwindow.png" width="250" height="250">
   </p>
