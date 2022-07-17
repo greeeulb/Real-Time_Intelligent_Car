@@ -36,7 +36,6 @@ ________________________________________________________________________________
     <li><a href="#Guidance">Guidance</a>
         <ul>
             <li><a href="#QT-Creator">QT creator</a>
-            <li><a href="#Installation">Installation</a>
             <li><a href="#Test">Test</a>
             <li><a href="#Static Library">Static Library</a>
         </ul>
@@ -82,8 +81,6 @@ After running the **client** project in QT Creator Software, the UI design is sh
 <img src="https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/blob/main/mainwindow.png" width="250" height="250">
   </p>
 <br/>
-
-## Installation
 
 ## Test
 
