@@ -82,24 +82,24 @@ Free control of intelligent car,Remote control car wireless.
 ### 1. How to test code on Raspberry through Terminal console
 ```
 cd ~/smartcar  
-g++ pca9685.cpp -lwiringPi -o pcatest// compile the pca9685.cpp with the aid of wiringPi library and generate a executable file called pcatest
+g++ pca9685.cpp -lwiringPi -o pcatest
 ./pcatest     
 ```
-##### (smartcar is the folder where cpp files exist and the third line is to execute the pcatest in the same path）
+##### (smartcar is the folder where cpp files exist, the second line is to compile the pca9685.cpp with the aid of wiringPi library and generate a executable file called pcatest and the third line is to execute the pcatest in the same path）
 
 ### 2. The test of motor is similar with the previous step:
 ```
 cd ~/smartcar   
-g++ motor.cpp -lwiringPi -o motortest// compile the motor.cpp with the aid of wiringPi library and generate a executable file called motortest
+g++ motor.cpp -lwiringPi -o motortest
 ./motortest     
 ```
-##### (the third line is to execute the motortest in the same path)
+##### (The second line is to compile the motor.cpp with the aid of wiringPi library and generate a executable file called motortest, the third line is to execute the motortest in the same path)
 
 ## Static Library
 
 ### 1. How to generate the Static library
 ```
-cd ~/smartcar   //jump to the folder
+cd ~/smartcar   
 g++ pca9685.cpp -lwiringPi -o pca9685.o 
 ar rcs libpca9685.a pca9685.o
 ```
