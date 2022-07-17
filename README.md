@@ -63,7 +63,10 @@ The advancement of society and technology has made the world pay more attention 
 • 3.7V 18650 batteries <br/>
 
 ## Processflow
-
+<p align="center">
+<img src="https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/blob/main/processflow.png" width="600" height="800">
+  </p>
+<br/>
 
 # Guidance
 
