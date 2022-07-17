@@ -74,9 +74,11 @@ Free control of intelligent car,Remote control car wireless.
 ## QT Creator
 In this project, we download QT creator Software on Windows to design the GUI for controlling the mini car remotely. It’s important to create and connect **_sockets_** to send data in a network. With the IP address and port of Raspberry Pi, we can establish connection between server and client by TCP protocol. Following is the stream-based socket connection using TCP protocol.
 <p align="center">
-<img src="https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/blob/main/Timetable(GANNT%20Chatt).png" width="850" height="350">
+<img src="https://github.com/PhillipsSong3/Real-Time_Intelligent_Car/blob/main/QT%20creator.png" width="300" height="350">
   </p>
 <br/>
+After running the “**client**” project in QT Creator Software, the UI design is shown below. Once we click the connect button, the “**off**” on the screen will change to “connect successful” and now we can control the mini car！
+
 
 ## Installation
 
